@@ -24,10 +24,37 @@ if month == 2:
     else:
         days_in_month = 28
     print("The amount of days in your month is:", days_in_month)
-elif month == (1, 3, 5, 7, 8, 10, 12):
+elif month == 1:
     days_in_month = 31
     print("The amount of days in your month is:", days_in_month)
-elif month == (4, 6, 9, 11):
+elif month == 3:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 5:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 7:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 8:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 10:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 12:
+    days_in_month = 31
+    print("The amount of days in your month is:", days_in_month)
+elif month == 4:
+    days_in_month = 30
+    print("The amount of days in your month is:", days_in_month)
+elif month == 6:
+    days_in_month = 30
+    print("The amount of days in your month is:", days_in_month)
+elif month == 9:
+    days_in_month = 30
+    print("The amount of days in your month is:", days_in_month)
+elif month == 11:
     days_in_month = 30
     print("The amount of days in your month is:", days_in_month)
 else:
